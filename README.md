@@ -20,6 +20,3 @@ A fully responsive and modern website built for a university portal. The project
 - **HTML5** – Structure and layout  
 - **CSS3** – Styling and animations  
 - **JavaScript** – Interactivity and dynamic behavior  
-
-   ```bash
-   git clone https://github.com/yourusername/university-website.git
